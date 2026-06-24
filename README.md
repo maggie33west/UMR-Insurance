@@ -39,11 +39,11 @@ UMR Insurance focuses on usability, accessibility, and performance while providi
 
 Amber Gold is a professional full-stack developer with extensive experience in React, JavaScript, UI/UX design, and scalable web applications. With over a decade of experience building enterprise-grade solutions, Amber is known for creating clean, maintainable code and helping developers improve their technical skills. Passionate about open-source software and community collaboration, Amber regularly contributes to educational projects and enjoys mentoring aspiring programmers worldwide.
 
-**Name:** Amber Gold
+**Name:** Magggie west
 
-**Email:** amber365gold@outlook.com
+**Email:** maggie33west@outlook.com
 
-**Website:** 
+**Website:** [UMR Insurance](https://www.umrinsurance.com.co)
 
 ## Getting Started
 
